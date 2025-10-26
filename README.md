@@ -29,7 +29,7 @@ Learn more about [F´ key features](https://fprime.jpl.nasa.gov/overview).
 
 ## Getting Started
 
-To get started with F´, install the F´ bootstrapping tool with:
+To get started with F´,  install the F´ bootstrapping tool with:
 ```
 pip install fprime-bootstrap
 ```
