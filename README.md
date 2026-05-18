@@ -36,7 +36,7 @@ pip install fprime-bootstrap
 
 Then, create a new project with:
 ```
-fprime-bootstrap project
+fprime-bootstrap   project
 ```
 
 See the [HelloWorld Tutorial](https://fprime.jpl.nasa.gov/latest/tutorials-hello-world/docs/hello-world/) to guide you through all the steps of developing an F´ project.
